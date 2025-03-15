@@ -17,11 +17,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Azure Virtual Machine (VM) (Linux or Windows) to host osTicket
+- Azure Database for HeidiSQL or install HeidiSQL on the VM
+- Azure Storage for attachments/logs
+- Azure DNS (Optional) for a custom domain
 
 <h2>Installation Steps</h2>
 
